@@ -28,7 +28,7 @@ I'm learning this from **Learn PyTorch and PyTorch Syntax** by **@OmarMAtef** �
 
 ## 🧪 Project Structure
 
-.
+
 ├── animal-faces/
 │   └── afhq/
 ├── cute-cat-looking-at-camera.jpeg
@@ -42,4 +42,4 @@ I'm learning this from **Learn PyTorch and PyTorch Syntax** by **@OmarMAtef** �
 │   ├── include/
 │   ├── lib/
 │   └── share/
-# imageclassification
+
